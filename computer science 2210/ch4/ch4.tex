@@ -1,0 +1,124 @@
+\section{Software}
+\subsection{Types of software and interrupts}
+
+\textbf{(1)}\textit{ Describe the difference between system software
+and application software and provide examples
+of each.}
+
+System software provides the services that a computer requires, which includes the operating
+system and utility software. Application software provides services required by the user, such
+as word processing, emails etc.
+
+\bigskip
+\noindent\textbf{(2)} \textit{Describe the roles and basic functions of an operating system.}
+
+This includes managing user files; handling interrupts; providing interface; managing peripherals
+and drivers; managing memory; managing multitasking; providing applications a platform; providing
+system security and managing user accounts.
+
+\bigskip
+\noindent\textbf{(3)} 
+\textit{Understand how hardware, firmware and an operating system are required to
+run application software.}
+
+Applications are run on the operating system, which is run on the firmware (bootloader), which is
+run on the firmware. The firmware runs on the hardware.
+
+\bigskip
+\noindent\textbf{(4)}
+\textit{Understand the role and operation of interrupts.}
+
+An interrupt is a signal sent to the computers processor to signal that something requires its
+attention. It is generated when something has gone wrong, and can originate from software or 
+hardware. Software interrupts include events such as division by zero and hardware interrupts may
+be generated when two simultaneous inputs are registered, from two separate peripherals.
+
+\subsection{Types of programming language, translators and integrated development environments
+(IDEs)}
+\textbf{1} \textit{Understand what is meant by a high level and low level language, understanding
+the advantages and disadvantages of each}
+
+High level languages uses words from human language. Keywords in such a language include 
+\verb|if|, \verb|while|, etc.
+
+Such a program is easier for humans to understand, read, write and amend. It is hence easier for
+humans to debug the code. The code itself is portable and machine independent. A single high
+level statement can represent multiple low level statemnts.
+
+However, it is slower to work with in the sense that it must be converted to a low level language
+before the code can be run. High level languages cannot usually directly manipulate hardware.
+
+\medskip
+
+Low level languages are of two types, machine code and assembly language. A computer executes
+machine code consisting of 0s and 1s. This kind of code is non portable, the machine code that runs
+on one machine may not run on another. Example of such code would be \verb|01001011|.
+
+Assembly language is an in between stage, that uses mnemonics to represent code. For example
+\verb|STO| can be used to store some memory at some address. All high level languages are 
+translated to assembly before being converted to machine code. 
+
+Low level languages need not be converted through multiple stages, machine code can be executed
+directly and assembly can be translated directly to machine code with no in between stages, making
+it a faster process. Such languages can directly manipulate hardware, by writing to specific
+memory locations, making the program more efficient in terms of speed and memory usage.
+
+Such a language is harder to read, write and amend, and hence harder to debug. Code written in this
+language tends to be machine dependent. Several instructions are required per high level statement.
+
+\bigskip
+
+\noindent\textbf{2} \textit{Understand that assembly language is a form
+of low-level language that uses mnemonics,
+and that an assembler is needed to translate an
+assembly language program into machine code.}
+
+Statements in assembly look like:
+
+\begin{center}
+\begin{BVerbatim}
+LDD count
+ADD 1
+STO count
+\end{BVerbatim}
+\end{center}
+which use shortened words, mnemonics, to represent statements.
+
+Assemblers are translator software which translate or convert assembly statements into machine code
+that can then be executed by the computer.
+
+\bigskip
+
+\noindent\textbf{3} \textit{Describe the operation of a compiler and an
+interpreter, including how high-level language is
+translated by each and how errors are reported.}
+
+High level languages are translated to machine code by means of translation software called
+compilers and interpreters.
+
+A compiler translates the whole code at once, producing an executable file, if there are no errors
+in the code. If there are errors, all the errors in the file are reported together by the compiler.
+
+An interpreter translates and executes the code line by line, and stops execution if a line with
+an error is encountered.
+
+\bigskip
+
+\noindent\textbf{4} \textit{Explain the advantages and disadvantages of a
+compiler and an interpreter.}
+
+An interpreter is used during the development of a program. This allows users to see when an error
+is encountered, amend it and continue running the program from the same point. 
+
+Once the program has been developed, a compiler will be used, as this will produce a machine
+independent executable file. The executable file can then be distributed, safely given that the
+code is undecipherable from the binary of an executable file. An interpreter, in this situation
+would not be appropriate as the source code and the interpreter software would both have to be
+distributed, meaning users can also have access to the source code, being able to change it as they
+like.
+
+\noindent\textbf{5} \textit{Explain the role of an IDE in writing program code
+and the common functions IDEs provide}
+
+IDEs provide code editors, a run time environment, translators, error diagnostics, auto completion,
+auto correction and pretty print.
