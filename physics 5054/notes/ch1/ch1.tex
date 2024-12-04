@@ -1,0 +1,193 @@
+\section{Motion, forces and energy}
+\subsection{Physical quantities and measurement techniques}
+
+\begin{firstpoint}
+Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and 
+micrometers (including reading the scale on an analogue micrometer)
+\end{firstpoint}
+
+Every ruler has a minimum length it can measure. Readings must be written rounded to that nearest
+reading. For a ruler calibrated to the nearest 0.1 mm, all readings should be written to the 
+nearest 0.1 mm.
+To read micrometers, watch: \url{https://youtu.be/StBc56ZifMs}.
+
+\smallskip
+Understand that, given a set of equipment and something to measure, we must choose the equipment
+with maximum readings closest to the thing to measure.
+
+\begin{syllpoint}
+Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume 
+of a solid by displacement
+\end{syllpoint}
+
+For colourless liquids, readings in a measuring cylinder must be taken from the lower meniscus,
+and for coloured liquids the upper meniscus should be used, see Figures 1 and 2.
+
+
+\begin{figure}
+	\centering
+
+	\begin{tikzpicture}
+		\draw (0, 0) -- (0, 4);
+		\draw (2, 0) -- (2, 4);
+		\draw (0, 2.5) arc(180:360:1);
+		\draw[dashed] (2, 1.5) -- (0, 1.5) node[left]{reading level};
+	\end{tikzpicture}
+
+	\caption{For colourless liquids.}
+\end{figure}
+
+\begin{figure}
+	\centering
+
+	\begin{tikzpicture}
+		\draw (0, 0) -- (0, 4);
+		\draw (2, 0) -- (2, 4);
+		\draw (0, 2.5) arc(180:360:1);
+		\draw[dashed] (0, 2.5) -- (2, 2.5) node[right]{reading level};
+	\end{tikzpicture}
+
+	\caption{For coloured liquids.}
+\end{figure}
+
+\begin{syllpoint}
+Describe how to measure a variety of time intervals using clocks and digital timers
+\end{syllpoint}
+
+\begin{syllpoint}
+Determine an average value for a small distance and for a short interval of time by measuring multiples 
+(including the period of oscillation of a pendulum)
+\end{syllpoint}
+
+For experiments involving oscillation, oscillations are counted, and total time for those 
+oscillations is taken. The total time is divided by the number of oscillations, giving an average
+value for each oscillation, removing influence of inaccurate and anomalous experiment.
+
+\begin{syllpoint}
+Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and 
+direction
+\end{syllpoint}
+
+\begin{syllpoint}
+Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature
+\end{syllpoint}
+
+\begin{syllpoint}
+Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, 
+momentum, electric field strength and gravitational field strength
+\end{syllpoint}
+
+\begin{syllpoint}
+Determine, by calculation or graphically, the resultant of two vectors at right angles 
+\end{syllpoint}
+
+Mathematically, the resultant, $\bm{c}$, of two vectors, $\bm{a}$ and $\bm{b}$ has is given by:
+$$ \bm{c} = \sqrt{\bm{a}^2 + \bm{b}^2} $$
+
+The angle with the horizontal, $\theta_h$ and that with the vertical $\theta_v$ can be found:
+$$ \tan{\theta_v} = \bm{b}/\bm{a} $$
+$$ \tan{\theta_h} = \bm{a}/\bm{b} $$
+refer to Figure 3 and 4 for directionality.
+
+\begin{figure}
+	\centering
+	\begin{tikzpicture}[decoration={
+		markings,
+		mark=at position 0.5 with {\arrow{>}}}
+		]
+
+		\draw[->] (0, 0) -- (0, 2) node[midway, left] {$\bm{a}$};
+		\draw[->] (0, 0) -- (4, 0) node[midway, below] {$\bm{b}$};
+		\draw[dashed] (0, 2) -- (4, 2);
+		\draw[dashed] (4, 0) -- (4, 2);
+		\draw[postaction=decorate] (0, 0) -- (4, 2) node[midway, above]{$\bm{c}$};
+		\draw (1.1, 0) node[right, above]{$\theta_h$};
+		\draw(0, 0.5) node[right]{$\theta_v$};
+	\end{tikzpicture}
+	\caption{Vectors pointing outward.}
+\end{figure}
+
+\begin{figure}
+	\centering
+	\begin{tikzpicture}[decoration={
+		markings,
+		mark=at position 0.5 with {\arrow{>}}}
+		]
+
+		\draw[postaction=decorate] (0, 2) -- (0, 0) node[midway, left] {$\bm{a}$};
+		\draw[postaction=decorate] (4, 0) -- (0, 0) node[midway, below] {$\bm{b}$};
+		\draw[dashed] (0, 2) -- (4, 2);
+		\draw[dashed] (4, 0) -- (4, 2);
+		\draw[postaction=decorate] (4, 2) -- (0, 0) node[midway, below]{$\bm{c}$};
+		\draw (1.1, 0) node[right, above]{$\theta_h$};
+		\draw(0, 0.5) node[right]{$\theta_v$};
+	\end{tikzpicture}
+	\caption{Vectors pointing inward.}
+\end{figure}
+
+\subsection{Motion}
+\begin{firstpoint}
+Define speed as distance travelled per unit time and define velocity as change in displacement per unit time
+\end{firstpoint}
+
+Displacement is the distance of an object with respect to a certain point, called the origin.
+Essentially, displacement is the vector form of distance. Speed and velocity, $\bm{v}$ are the rates
+of change of distance and displacement, $\bm{s}$ with respect to time, $t$.
+
+Mathematically,
+$$ \bm{v} = \bm{s}/t $$
+
+\begin{syllpoint}
+Recall and use the equation
+\end{syllpoint}
+
+$$ (\textrm{average speed}) = (\textrm{total distance})/(\textrm{time taken}) $$
+
+\begin{syllpoint}
+Define acceleration as change in velocity per unit time; recall and use the equation
+\end{syllpoint}
+
+$$ (\textrm{acceleration}) = (\textrm{change in velocity})/(\textrm{time taken}) $$
+Symbolically,
+$$ \bm{a} = \frac{\Delta \bm{v}}{\Delta t} = \frac{\bm{v} - \bm{u}}{t}$$
+where $\bm{v}$ is final and $\bm{u}$ is initial velocity.
+
+\begin{syllpoint}
+State what is meant by, and describe examples of, uniform acceleration and non-uniform acceleration
+\end{syllpoint}
+
+When over a period of time, acceleration does not change, i.e., $\Delta \bm{a} = 0$, acceleration
+is said to be \textit{uniform} or \textit{constant}. When $\Delta \bm{a} \ne 0$, acceleration
+has changed, causing a \textit{non-uniform} or \textit{non-constant} acceleration.
+
+\begin{syllpoint}
+Know that a deceleration is a negative acceleration and use this in calculations
+\end{syllpoint}
+
+A negative acceleration causes a decrease in velocity, and is called deceleration. A deceleration
+of $x$ is the same as an acceleration of $-x$, and the opposite also applies.
+
+\begin{syllpoint}
+Sketch, plot and interpret distance–time and speed–time graphs
+\end{syllpoint}
+
+The motion of objects can be investigated by their data, which is made more convenient by the use 
+of graphical representations of the data. The distance covered by the object and the velocity or
+speed of the object can be plotted against time.
+
+\begin{syllpoint}
+Determine from the shape of a distance–time graph when an object is:
+
+\indent(a) at rest
+\indent(b) moving with constant speed
+\indent(c) accelerating
+\indent(d) decelerating
+\end{syllpoint}
+
+\begin{figure}
+	\centering
+	\begin{tikzpicture}
+
+	\end{tikzpicture}
+	\caption{Distance-time or speed-time graph.}
+\end{figure}
