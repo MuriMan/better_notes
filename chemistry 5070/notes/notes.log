@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.12.2)  4 DEC 2024 21:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.12.2)  4 DEC 2024 20:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -468,7 +468,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count310
 \l__pdf_internal_box=\box69
-) (./notes.aux (./ch12/ch12.aux) (./ch13/ch13.aux) (./overall/overall.aux))
+) (./notes.aux (./ch10/ch10.aux))
 \openout1 = `notes.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -530,76 +530,41 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout6 = `notes.toc'.
 
  [2]
-\openout2 = `./ch12/ch12.aux'.
+\openout2 = `./ch10/ch10.aux'.
 
- (./ch12/ch12.tex [3
-
-] [4]
-Overfull \hbox (21.44443pt too wide) in paragraph at lines 89--91
-[]$[]$ \T1/cmr/m/n/10 Re-mov-ing stag-nant bod-ies of wa-ter leaves mosquitoes
+ (./ch10/ch10.tex
+Overfull \hbox (5.70259pt too wide) in paragraph at lines 5--7
+[][]\T1/cmr/m/n/10 1.1.1\T1/cmr/m/it/10 . []De-scribe chem-i-cal tests for the pres-ence of wa-ter us-ing an-hy-drous cobalt(II)
  []
 
-
-Overfull \hbox (1.81033pt too wide) in paragraph at lines 124--126
-[]$[]$ \T1/cmr/m/n/10 Be-fore trans-fu-sion, blood to be trans-fused can be screened
- []
-
-[5] [6] [7]
-Overfull \hbox (5.70169pt too wide) in paragraph at lines 253--255
-[][]\T1/cmr/m/n/10 1.2.4\T1/cmr/m/it/10 . []Ex-plain how de-vel-op-ment of antibiotic-resistant bac-te-ria, in-clud-ing MRSA,
- []
-
-[8]
-Overfull \hbox (4.68314pt too wide) in paragraph at lines 308--311
-\T1/cmr/m/n/10 These cells are re-spon-si-ble for recog-nis-ing a cer-tain pathogen. When the pathogen
- []
-
-) [9]
-\openout2 = `./ch13/ch13.aux'.
-
- (./ch13/ch13.tex
-Overfull \hbox (26.95874pt too wide) in paragraph at lines 49--52
-\T1/cmr/m/n/10 nephron con-sists of $[]$, $[]$, the $[]$ and a $[]$. 
- []
-
-[10
-
-
+[3
 
 ]
-Overfull \hbox (3.48662pt too wide) in paragraph at lines 75--77
-[][]\T1/cmr/m/n/10 2.2.5\T1/cmr/m/it/10 . []De-scribe deam-i-na-tion in the liver as the re-moval of the nitrogen-containing
+Overfull \hbox (6.30322pt too wide) in paragraph at lines 103--104
+[]\T1/cmr/m/it/10 carbon monox-ide and par-tic-u-lates from the in-com-plete com-bus-tion of carbon-
  []
 
-
-Overfull \hbox (17.56552pt too wide) in paragraph at lines 78--80
-[]\T1/cmr/m/n/10 The re-moval of the ni-tro-gen con-tain-ing part of amino acids, is called $[]$.
- []
-
-) [11]
-\openout2 = `./overall/overall.aux'.
-
- (./overall/overall.tex) (./notes.aux (./ch12/ch12.aux) (./ch13/ch13.aux) (./overall/overall.aux))
+[4] [5]) [6] (./notes.aux (./ch10/ch10.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `notes.out' has not changed.
-(rerunfilecheck)             Checksum: E0F601B2000A4546AA288648CB26ECC7;770.
+(rerunfilecheck)             Checksum: 48C733870D675E17D720775F66AF706D;567.
  ) 
 Here is how much of TeX's memory you used:
- 23697 strings out of 476076
- 442487 string characters out of 5793775
- 1937187 words of memory out of 5000000
- 45321 multiletter control sequences out of 15000+600000
- 576350 words of font info for 89 fonts, out of 8000000 for 9000
+ 23847 strings out of 476076
+ 444984 string characters out of 5793775
+ 1949187 words of memory out of 5000000
+ 45495 multiletter control sequences out of 15000+600000
+ 576015 words of font info for 88 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 107i,13n,110p,542b,707s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/abrar/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk> </home/abrar/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1000.600pk> </home/abrar/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/abrar/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/abrar/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/abrar/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/abrar/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/abrar/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk>
-Output written on notes.pdf (11 pages, 93296 bytes).
+ 107i,12n,110p,542b,1326s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/abrar/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1000.600pk> </home/abrar/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/abrar/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/abrar/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/abrar/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/abrar/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/abrar/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on notes.pdf (6 pages, 109580 bytes).
 PDF statistics:
- 411 PDF objects out of 1000 (max. 8388607)
- 167 compressed objects within 2 object streams
- 67 named destinations out of 1000 (max. 500000)
- 69 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 359 PDF objects out of 1000 (max. 8388607)
+ 145 compressed objects within 2 object streams
+ 60 named destinations out of 1000 (max. 500000)
+ 45 words of extra memory for PDF output out of 10000 (max. 10000000)
 
