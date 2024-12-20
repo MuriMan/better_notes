@@ -1,7 +1,9 @@
-\contentsline {section}{\numberline {1}Disease and immunity}{3}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Disease}{3}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Antibiotics}{8}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Immunity}{8}{subsection.1.3}%
-\contentsline {section}{\numberline {2}Excretion}{10}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Excretion}{10}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Urinary system}{10}{subsection.2.2}%
+\contentsline {section}{\numberline {1}Cells}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Cell structure and function}{3}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Disease and immunity}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Disease}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Antibiotics}{9}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Immunity}{9}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Excretion}{11}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Excretion}{11}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Urinary system}{11}{subsection.3.2}%
