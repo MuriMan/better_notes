@@ -1,0 +1,208 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdftex 2025.1.28)  28 JAN 2025 11:01
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./notes.tex
+(notes.tex
+! Undefined control sequence.
+l.1 \documentclass
+                  {article}
+? 
+(../../preamble/preamble.tex
+! Undefined control sequence.
+l.1 \usepackage
+               {tikz, fancyhdr, fancyvrb, chemfig,  environ, caption, bm, en...
+
+? 
+! Undefined control sequence.
+l.2 \usepackage
+               {xcolor}
+? 
+! Undefined control sequence.
+l.4 \usepackage
+               {amsthm}
+? 
+! Undefined control sequence.
+l.5 \usepackage
+               [T1]{fontenc}
+? 
+! Undefined control sequence.
+l.6 \usepackage
+               {circuitikz}
+? 
+! Undefined control sequence.
+l.8 \usepackage
+               [linktoc=none]{hyperref}
+? 
+! Undefined control sequence.
+l.10 \author
+             {Abrar Faiyaz Rahim, degrees pending}
+? 
+! Undefined control sequence.
+l.11 \date
+          {}
+? 
+! Undefined control sequence.
+l.12 \NewEnviron
+                {firstpoint}{\noindent\textit{1. \BODY}\medskip}
+? 
+! Undefined control sequence.
+l.12 \NewEnviron{firstpoint}{\noindent\textit
+                                             {1. \BODY}\medskip}
+? 
+! Undefined control sequence.
+l.12 ...iron{firstpoint}{\noindent\textit{1. \BODY
+                                                  }\medskip}
+? 
+! Undefined control sequence.
+l.13 \NewEnviron
+                {syllpoint}{\bigskip\noindent\textit{\BODY}\smallskip}
+? 
+! Undefined control sequence.
+l.13 ...nviron{syllpoint}{\bigskip\noindent\textit
+                                                  {\BODY}\smallskip}
+? 
+! Undefined control sequence.
+l.13 ...{syllpoint}{\bigskip\noindent\textit{\BODY
+                                                  }\smallskip}
+? 
+! Undefined control sequence.
+l.15 \newcommand
+                {\celsius}{$^\circ$C }
+? 
+! Undefined control sequence.
+l.15 \newcommand{\celsius
+                         }{$^\circ$C }
+? 
+! Undefined control sequence.
+l.17 \newtheoremstyle
+                     {syllabuspoint}
+? 
+! Undefined control sequence.
+l.18     {\topsep
+                 /4} % space above
+? 
+! You can't use `\dimexpr' in horizontal mode.
+l.19     {\dimexpr
+                  \topsep/2\relax} % space below
+? 
+! Undefined control sequence.
+l.19     {\dimexpr\topsep
+                         /2\relax} % space below
+? 
+! Undefined control sequence.
+l.20     {\itshape
+                  }          % body font
+? 
+! Undefined control sequence.
+l.27 \theoremstyle
+                  {syllabuspoint}
+? 
+! Undefined control sequence.
+l.28 \newtheorem
+                {point}{}[subsection]
+? 
+! Undefined control sequence.
+l.29 \newtheorem
+                {subpoint}{}[subsubsection]
+? 
+! Undefined control sequence.
+l.31 \renewcommand
+                  *{\thefootnote}{[\arabic{footnote}]}
+? 
+! Undefined control sequence.
+l.31 \renewcommand*{\thefootnote
+                                }{[\arabic{footnote}]}
+? 
+! Undefined control sequence.
+l.31 \renewcommand*{\thefootnote}{[\arabic
+                                          {footnote}]}
+? 
+! Undefined control sequence.
+l.33 \pagestyle
+               {fancy}
+? 
+! Undefined control sequence.
+l.34 \fancyhf
+             {}
+? 
+! Undefined control sequence.
+l.35 \fancyhead
+               [L]{\rightmark}
+? 
+! Undefined control sequence.
+l.35 \fancyhead[L]{\rightmark
+                             }
+? 
+! Undefined control sequence.
+l.36 \fancyhead
+               [R]{\thepage}
+? 
+! Undefined control sequence.
+l.36 \fancyhead[R]{\thepage
+                           }
+? 
+! Undefined control sequence.
+l.37 \renewcommand
+                  {\headrulewidth}{0pt}
+? 
+! Undefined control sequence.
+l.37 \renewcommand{\headrulewidth
+                                 }{0pt}
+? 
+! Undefined control sequence.
+l.39 \usetikzlibrary
+                    {decorations.markings}
+? 
+! Undefined control sequence.
+l.40 \usetikzlibrary
+                     {arrows.meta}
+? 
+)
+! Undefined control sequence.
+l.4 \title
+          {Cambridge Ordinary Level Notes \\ Chemistry 5070}
+? 
+! Argument of \\ has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+l.4 ...dge Ordinary Level Notes \\ Chemistry 5070}
+                                                  
+? 
+Runaway argument?
+ Chemistry 5070
+! Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+l.4 ...dge Ordinary Level Notes \\ Chemistry 5070}
+                                                  
+? 
+! Undefined control sequence.
+l.6 \begin
+          {document}
+? 
+! Undefined control sequence.
+l.7 \maketitle
+              {}\newpage\tableofcontents
+? 
+! Undefined control sequence.
+l.7 \maketitle{}\newpage
+                        \tableofcontents
+? 
+! Undefined control sequence.
+l.7 \maketitle{}\newpage\tableofcontents
+                                        
+? 
+[1{C:/Users/shaha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] )<E:/mikte
+x/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/miktex/fonts/type1/public/amsfon
+ts/cm/cmsy7.pfb>
+Output written on notes.pdf (1 page, 27697 bytes).
+PDF statistics:
+ 14 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
