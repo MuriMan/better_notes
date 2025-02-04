@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.28)  2 FEB 2025 11:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.28)  28 JAN 2025 19:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -758,7 +758,7 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count330
 \l__pdf_internal_box=\box72
 ) (notes.aux
-(ch1/ch1.aux) (ch8/ch8.aux) (ch10/ch10.aux))
+(ch2/ch2.aux))
 \openout1 = `notes.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -779,8 +779,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
-
-(E:\miktex\tex/context/base/mkii\supp-pdf.mkii
+ (E:\miktex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count331
 \scratchdimen=\dimen314
@@ -825,52 +824,26 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout6 = `notes.toc'.
 
  [2]
-\openout2 = `./ch1/ch1.aux'.
+\openout2 = `./ch2/ch2.aux'.
 
- (ch1/ch1.tex) [3
+ (ch2/ch2.tex) [3
 
-]
-\openout2 = `./ch8/ch8.aux'.
-
- (ch8/ch8.tex) [4
-
-
-
-] [5]
-\openout2 = `./ch10/ch10.aux'.
-
- (ch10/ch10.tex
-Overfull \hbox (5.41377pt too wide) in paragraph at lines 5--7
-[][]\T1/cmr/m/n/10 3.1.1. []\T1/cmr/m/it/10 De-scribe chem-i-cal tests for the 
-pres-ence of wa-ter us-ing an-hy-drous cobalt(II)
- []
-
-[6
-
-
-
-]
-Overfull \hbox (6.30322pt too wide) in paragraph at lines 103--104
-[]\T1/cmr/m/it/10 carbon monox-ide and par-tic-u-lates from the in-com-plete co
-m-bus-tion of carbon-
- []
-
-[7] [8]) [9] (notes.aux (ch1/ch1.aux) (ch8/ch8.aux) (ch10/ch10.aux))
+] (notes.aux (ch2/ch2.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `notes.out' has not changed.
-(rerunfilecheck)             Checksum: 6FD746563C474CF736CE252891385A47;1357.
+(rerunfilecheck)             Checksum: 63BC51E92924B339199899FB13C1DEA9;393.
  ) 
 Here is how much of TeX's memory you used:
- 42799 strings out of 474486
- 994589 string characters out of 5760170
- 1949542 words of memory out of 5000000
- 64491 multiletter control sequences out of 15000+600000
+ 42455 strings out of 474486
+ 988425 string characters out of 5760170
+ 1939542 words of memory out of 5000000
+ 64227 multiletter control sequences out of 15000+600000
  576663 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 107i,12n,110p,544b,1326s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 107i,11n,110p,544b,445s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\shaha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk> <C:\Users\shaha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\ecti1000.pk> <C:\Users\shaha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
@@ -879,13 +852,10 @@ pen/ec/dpi600\ecbx1000.pk> <C:\Users\shaha\AppData\Local\MiKTeX\fonts/pk/ljfour
 /jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\shaha\AppData\Local\MiKTeX\fonts/pk/
 ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\shaha\AppData\Local\MiKTeX\fon
 ts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\shaha\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><E:/miktex/fonts/type1/public
-/amsfonts/cm/cmmi10.pfb><E:/miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:
-/miktex/fonts/type1/public/amsfonts/cm/cmr7.pfb><E:/miktex/fonts/type1/public/a
-msfonts/cm/cmsy10.pfb><E:/miktex/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on notes.pdf (9 pages, 161351 bytes).
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
+Output written on notes.pdf (3 pages, 66741 bytes).
 PDF statistics:
- 449 PDF objects out of 1000 (max. 8388607)
- 76 named destinations out of 1000 (max. 500000)
- 85 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 237 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 500000)
+ 29 words of extra memory for PDF output out of 10000 (max. 10000000)
 

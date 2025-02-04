@@ -1,7 +1,9 @@
-\contentsline {section}{\numberline {1}The Periodic Table}{3}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Arrangement of elements}{3}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Group I properties}{4}{subsection.1.2}%
-\contentsline {section}{\numberline {2}Chemistry of the environment}{5}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Water}{5}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Fertilisers}{6}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Air quality and climate}{6}{subsection.2.3}%
+\contentsline {section}{\numberline {1}States of matter}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Solids, liquids and gases}{3}{subsection.1.1}%
+\contentsline {section}{\numberline {2}The Periodic Table}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Arrangement of elements}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Group I properties}{5}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Chemistry of the environment}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Water}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Fertilisers}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Air quality and climate}{7}{subsection.3.3}%

@@ -1,0 +1,2 @@
+\contentsline {section}{\numberline {1}Data transmission}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Types and methods of data transmission}{3}{subsection.1.1}%
