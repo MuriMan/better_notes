@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1738072357.10782 "notes.tex" "notes.pdf" "notes" 1738072360.03583 0
-  "../../preamble/preamble.tex" 1738039351 1194 0754e74c4f52dd750cc343646b9de842 ""
+["pdflatex"] 1738809875.79896 "notes.tex" "notes.pdf" "notes" 1738809877.51355 0
+  "../../preamble/preamble.tex" 1738808955 1194 0754e74c4f52dd750cc343646b9de842 ""
   "C:/Users/shaha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1738042654 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/shaha/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1738040949 25420 28f034e0a11391dce2c35322a2be2483 ""
   "C:/Users/shaha/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1738071005 31952 80fdbb852b989368be3199b4bc1acab5 ""
@@ -212,12 +212,12 @@
   "E:/miktex/tex/latex/trimspaces/trimspaces.sty" 1253169183 1380 971a51b00a14503ddf754cab24c3f209 ""
   "E:/miktex/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "E:/miktex/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "ch2/ch2.aux" 1738072359 1005 2bfff5ec8bc37708136ce08a1d4e2342 "pdflatex"
-  "ch2/ch2.tex" 1738072356 2377 b8cb9178ca4103a629fd3ab762072ef7 ""
-  "notes.aux" 1738072359 185 b02733f534679d80a7cc5ec784e14872 "pdflatex"
-  "notes.out" 1738072359 393 63bc51e92924b339199899fb13c1dea9 "pdflatex"
+  "ch2/ch2.aux" 1738809877 1138 879edee5c6e2d4a296163d18967633c9 "pdflatex"
+  "ch2/ch2.tex" 1738809872 4662 32a1825dfa96beb90a825caa36ee8504 ""
+  "notes.aux" 1738809877 185 42d738c380b96e0cfc6bf7152ca4d42b "pdflatex"
+  "notes.out" 1738809877 589 b7609ac9d4875d43ff323ee43b4c65f2 "pdflatex"
   "notes.tex" 1738070628 224 5a50f909580c245ad1ffa8e26a0eaaaa ""
-  "notes.toc" 1738072359 177 b18f71ed527fc6fbc47d2e02a357a331 "pdflatex"
+  "notes.toc" 1738809877 269 56533a2aabca128ae155d52f75bb4fcf "pdflatex"
   (generated)
   "ch2/ch2.aux"
   "notes.aux"

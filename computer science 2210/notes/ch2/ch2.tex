@@ -50,9 +50,18 @@ Based on amount of data transmission:
 		transmission is time consuming, but safer in that
 		data will always arrive in order and has less chance
 		of being skewed as, due to the fewer amount of wires,
-		there is less chance of interference.
+		there is less chance of interference. The usage of a
+		single wire also makes this method relatively less
+		expensive.
 	\item \ul{\emph{Parallel}}: Data is transmitted \emph{
-		multiple bits at a time, down multiple wires.}
+		multiple bits at a time, down multiple wires.} Here,
+		due to there being multiple wires and each of them transmitting
+		at different speeds, data does not always arrive in order and may
+		even be skewed due to interference across long distances. Yet, 
+		the fact that data travels parallelly, makes the transmission faster. However,
+		the usage of multiple wires makes parallel transmission expensive.
+		Internally, a computer transmits in parallel, so transmitting in parallel
+		requires no extra processing for conversion.
 \end{itemize}
 Based on direction of data transmission:
 \begin{itemize}
@@ -63,3 +72,48 @@ Based on direction of data transmission:
 	\item \ul{\emph{Duplex}}: Data is transmitted in 
 		\emph{both directions at the same time.}
 \end{itemize}
+
+\begin{point}
+Understand the universal serial bus (USB)
+interface and explain how it is used to transmit
+data
+\end{point}
+
+The \emph{\ul{universal serial bus (USB)}} is an industry standard of data transmission.
+Flash drives, mouse connectors are all subsets of this interface. Advantages of the USB
+interface follow:
+
+\begin{itemize}
+	\item A USB cable fits only one way, meaning no wrong connections can be made.
+	\item USB transmission is relatively high, so data can be transferred quickly.
+	\item Since USB is an industry standard, a USB port is included on almost all
+		devices.
+	\item USB insertion is always automatically detected, which begins the installation
+		of required drivers.
+	\item USB connections can also be used to power a device, which can be used to
+		charge devices (mobile phones).
+\end{itemize}
+Conversely, the disadvantages of the interface are:
+\begin{itemize}
+	\item The length of a USB cable is always limited, upto 5 metres.
+	\item The transmission speed for USb, though it is high, it is not as high
+		ethernet.
+\end{itemize}
+
+\subsection{Methods of error detection}
+\begin{point}
+Understand the need to check for errors after
+data transmission and how these errors can occur
+\end{point}
+
+During transmission, due to factors such as interference, errors may arise in the data
+transmitted, such as loss of data, gain of data and change of data. Using data with
+errors will cause problems, hence data must be checked for errors.
+
+\begin{point}
+Describe the processes involved in each of the
+following error detection methods for detecting
+errors in data after transmission: parity check
+(odd and even), checksum and echo check
+\end{point}
+
